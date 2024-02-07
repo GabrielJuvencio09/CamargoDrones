@@ -1,0 +1,24 @@
+*{
+    margin: 0; 
+}
+
+li{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+img{
+    display: block;
+}
+
+
+body{
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+}
+
+
