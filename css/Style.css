@@ -2,10 +2,16 @@
 @import url(./Body/root.css);
 @import url(./Body/reapt.css);
 
+@import url(./header/header.css);
 
 @import url(./main/background.css);
+@import url(./main/Beneficios.css);
 
-@import url(./header/header.css);
+@import url(./Footer/midias.css);
+
+
+
+
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap');
